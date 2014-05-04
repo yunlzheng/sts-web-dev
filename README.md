@@ -12,3 +12,12 @@ Step by step create a modern web application
     * write a better css
 
         npm install less -g
+
+
+## Step 3 Write application with jade
+
+    * write a better html
+
+        npm install jade --global
+
+        npm install -g html2jade
